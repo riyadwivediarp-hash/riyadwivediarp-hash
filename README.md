@@ -1,1 +1,1 @@
-![Riya Dwivedi GitHub Profile](./terminal_banner.svg)
+![Riya Dwivedi GitHub Profile](./terminal_banner.png)
