@@ -17,6 +17,8 @@
 ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝  ╚══════╝╚═════╝ ╚═╝
 ```
 
+# Riya Dwivedi
+
 **`CSE @ IIIT Bhopal  ·  Semester III  ·  DSA & Competitive Programming`**
 
 *Breaks things to understand them.*
