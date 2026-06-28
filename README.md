@@ -164,5 +164,5 @@ React (UI)  →  REST API call  →  Express Route  →  Controller  →  MongoD
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=riyadwivediarp-hash&color=blueviolet&style=flat-square" alt="Profile Views" />
 
-  *"First, solve the problem. Then, write the code." *
+  **"First, solve the problem. Then, write the code."**
 </div>
