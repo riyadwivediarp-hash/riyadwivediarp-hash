@@ -148,21 +148,6 @@ React (UI)  →  REST API call  →  Express Route  →  Controller  →  MongoD
 
 </div>
 
----
-
-## 🎯 2025 Goals
-
-- [ ] Solve **500+ problems** on LeetCode
-- [ ] Reach **Specialist** on Codeforces
-- [ ] Build and deploy **3 full-stack MERN projects**
-- [ ] Land my first **software internship**
-- [ ] Contribute to **open source**
-- [ ] Master **system design** fundamentals
-- [ ] Complete a full DSA sheet (Striver / Love Babbar)
-- [ ] Participate in **20+ CP contests**
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -179,5 +164,5 @@ React (UI)  →  REST API call  →  Express Route  →  Controller  →  MongoD
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=riyadwivediarp-hash&color=blueviolet&style=flat-square" alt="Profile Views" />
 
-  *"First, solve the problem. Then, write the code." — John Johnson*
+  *"First, solve the problem. Then, write the code." *
 </div>
