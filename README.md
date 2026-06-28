@@ -37,23 +37,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**What I build on the frontend:**
-- Responsive UIs with React functional components and hooks
-- State management using `useState`, `useEffect`, `useContext`
-- API integration with `fetch` / `axios`
-- Styled with Tailwind CSS and custom CSS3
-
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**What I build on the backend:**
-- RESTful APIs with Express.js and Node.js
-- MongoDB with Mongoose for data modeling
-- JWT-based authentication and middleware
-- MVC architecture for clean, scalable code
 
 ### 🔄 MERN Stack Flow
 
